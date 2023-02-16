@@ -28,6 +28,6 @@ In this project I'm using [Create React App](https://create-react-app.dev/). So 
 
 ## Future scope
 
-User's ability to change pages from 'profile' to 'messages' as an for example, post messages on the wall of profile.
+User's ability to change pages from 'profile' to 'messages' as anexample, post messages on the wall of profile.
 
 Time to time I will change information in this Readme file. All changes of this project will be added here.
