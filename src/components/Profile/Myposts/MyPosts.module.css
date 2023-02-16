@@ -1,0 +1,53 @@
+.myPost {
+  display: flex;
+  flex-direction: column;
+
+  width: 700px;
+  margin: 0 auto;
+}
+
+.postNews {
+  display: flex;
+  flex-direction: column;
+
+  margin-bottom: 30px;
+}
+
+.myPost h3 {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.newPost {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+textarea {
+  color: grey;
+  width: 100%;
+  height: 100%;
+  border: none;
+  padding: 0;
+  resize: none;
+}
+
+.sendButton {
+  width: 100px;
+  height: 30px;
+  margin-left: auto;
+  background-color: rgb(0, 255, 115);
+  border: none;
+  font-weight: 700;
+}
+
+.sendButton:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.post {
+  width: 300px;
+  margin-bottom: 10px;
+}
